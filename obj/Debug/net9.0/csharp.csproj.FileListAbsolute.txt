@@ -1,0 +1,14 @@
+C:\Users\UniSoft PC\unicpp\csharp\bin\Debug\net9.0\csharp.exe
+C:\Users\UniSoft PC\unicpp\csharp\bin\Debug\net9.0\csharp.deps.json
+C:\Users\UniSoft PC\unicpp\csharp\bin\Debug\net9.0\csharp.runtimeconfig.json
+C:\Users\UniSoft PC\unicpp\csharp\bin\Debug\net9.0\csharp.dll
+C:\Users\UniSoft PC\unicpp\csharp\bin\Debug\net9.0\csharp.pdb
+C:\Users\UniSoft PC\unicpp\csharp\obj\Debug\net9.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UniSoft PC\unicpp\csharp\obj\Debug\net9.0\csharp.AssemblyInfoInputs.cache
+C:\Users\UniSoft PC\unicpp\csharp\obj\Debug\net9.0\csharp.AssemblyInfo.cs
+C:\Users\UniSoft PC\unicpp\csharp\obj\Debug\net9.0\csharp.csproj.CoreCompileInputs.cache
+C:\Users\UniSoft PC\unicpp\csharp\obj\Debug\net9.0\csharp.dll
+C:\Users\UniSoft PC\unicpp\csharp\obj\Debug\net9.0\refint\csharp.dll
+C:\Users\UniSoft PC\unicpp\csharp\obj\Debug\net9.0\csharp.pdb
+C:\Users\UniSoft PC\unicpp\csharp\obj\Debug\net9.0\csharp.genruntimeconfig.cache
+C:\Users\UniSoft PC\unicpp\csharp\obj\Debug\net9.0\ref\csharp.dll
